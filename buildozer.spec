@@ -1,7 +1,7 @@
 [app]
 
 # (str) Title of your application
-title = Random cipari
+title = Randomcipari
 
 # (str) Package name
 package.name = RandomCipari
