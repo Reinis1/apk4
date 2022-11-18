@@ -4,7 +4,7 @@
 title = Random cipari
 
 # (str) Package name
-package.name = Random cipari 1.0
+package.name = RandomCipari
 
 # (str) Package domain (needed for android/ios packaging)
 package.domain = org.test
